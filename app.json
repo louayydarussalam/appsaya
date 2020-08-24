@@ -1,0 +1,12 @@
+{
+  "name": "appsaya",
+  "displayName": "appsaya",
+  "expo": {
+    "name": "appsaya",
+    "slug": "appsaya",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
